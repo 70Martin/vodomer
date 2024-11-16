@@ -1,1 +1,0 @@
-# vodomer-app
