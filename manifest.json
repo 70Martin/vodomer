@@ -1,0 +1,34 @@
+{
+  "name": "Odečet Vodoměru",
+  "short_name": "Vodoměr",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-360x360.png",
+      "sizes": "360x360",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "description": "Aplikace pro odečet vodoměru a výpočet spotřeby vody.",
+  "lang": "cs",
+  "scope": "/",
+  "app_id": "com.vodomer.app",
+  "orientation": "portrait",
+  "screenshots": [
+    {
+      "src": "/screenshots/screenshot1.png",
+      "sizes": "360x640",
+      "type": "image/png"
+    }
+  ]
+}
